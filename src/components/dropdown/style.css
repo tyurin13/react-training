@@ -1,0 +1,28 @@
+.dropdownList {
+  display: none;
+}
+
+.dropdownList.visible {
+  display: block;
+}
+
+.articleTitle {
+  text-transform: uppercase;
+}
+
+.articleList {
+  list-style-type: none;
+}
+
+.articleOne {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+
+.button {
+  margin-left: 2em;
+  font-size: 8px;
+  background-color: rgba(1, 160, 223, 0.3);
+  
+}
